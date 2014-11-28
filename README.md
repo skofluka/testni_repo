@@ -1,4 +1,4 @@
 testni_repo
 ===========
 
-To je testno skladišče.
+To je testno skladišče
